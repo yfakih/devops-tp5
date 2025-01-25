@@ -1,0 +1,17 @@
+com/bookmanagement/entities/Book$BookBuilder.class
+com/bookmanagement/controller/BookController.class
+com/bookmanagement/services/IBookServiceImpl.class
+com/bookmanagement/entities/Author.class
+com/bookmanagement/entities/BookCategory.class
+com/bookmanagement/services/IBookService.class
+com/bookmanagement/exceptions/BookNotFoundException.class
+com/bookmanagement/entities/Author$AuthorBuilder.class
+com/bookmanagement/dtos/ResponseDto.class
+com/bookmanagement/dtos/ErrorResponseDto$ErrorResponseDtoBuilder.class
+com/bookmanagement/mapper/BookMapper.class
+com/bookmanagement/dtos/BookDto.class
+com/bookmanagement/repository/BookRepository.class
+com/bookmanagement/exceptions/GlobalExceptionHandler.class
+com/bookmanagement/BookServiceApplication.class
+com/bookmanagement/dtos/ErrorResponseDto.class
+com/bookmanagement/entities/Book.class

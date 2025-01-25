@@ -1,0 +1,14 @@
+/Users/yousseffakih/Downloads/ecom/book-management/book-service/src/main/java/com/bookmanagement/BookServiceApplication.java
+/Users/yousseffakih/Downloads/ecom/book-management/book-service/src/main/java/com/bookmanagement/controller/BookController.java
+/Users/yousseffakih/Downloads/ecom/book-management/book-service/src/main/java/com/bookmanagement/dtos/BookDto.java
+/Users/yousseffakih/Downloads/ecom/book-management/book-service/src/main/java/com/bookmanagement/dtos/ErrorResponseDto.java
+/Users/yousseffakih/Downloads/ecom/book-management/book-service/src/main/java/com/bookmanagement/dtos/ResponseDto.java
+/Users/yousseffakih/Downloads/ecom/book-management/book-service/src/main/java/com/bookmanagement/entities/Author.java
+/Users/yousseffakih/Downloads/ecom/book-management/book-service/src/main/java/com/bookmanagement/entities/Book.java
+/Users/yousseffakih/Downloads/ecom/book-management/book-service/src/main/java/com/bookmanagement/entities/BookCategory.java
+/Users/yousseffakih/Downloads/ecom/book-management/book-service/src/main/java/com/bookmanagement/exceptions/BookNotFoundException.java
+/Users/yousseffakih/Downloads/ecom/book-management/book-service/src/main/java/com/bookmanagement/exceptions/GlobalExceptionHandler.java
+/Users/yousseffakih/Downloads/ecom/book-management/book-service/src/main/java/com/bookmanagement/mapper/BookMapper.java
+/Users/yousseffakih/Downloads/ecom/book-management/book-service/src/main/java/com/bookmanagement/repository/BookRepository.java
+/Users/yousseffakih/Downloads/ecom/book-management/book-service/src/main/java/com/bookmanagement/services/IBookService.java
+/Users/yousseffakih/Downloads/ecom/book-management/book-service/src/main/java/com/bookmanagement/services/IBookServiceImpl.java
