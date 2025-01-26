@@ -14,3 +14,8 @@ spring:
     web:
       pageable:
         default-page-size: 20
+    jdbc:
+      dialect: mysql
+logging:
+  level:
+    org.springframework.core.env: DEBUG
