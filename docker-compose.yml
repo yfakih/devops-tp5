@@ -16,6 +16,7 @@ services:
     networks:
        - network
 
+
   mysql:
     container_name: mysql
     image: mysql:latest
