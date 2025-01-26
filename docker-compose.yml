@@ -1,8 +1,9 @@
 services:
   web:
     container_name: book-service
-    build:
-      context: .
+#    build:
+#      context: .
+    image: yfakih/tp5:latest
     depends_on:
       - mysql
     environment:
